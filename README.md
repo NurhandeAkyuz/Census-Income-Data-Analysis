@@ -5,4 +5,4 @@
 #### Authors:
 - Diala Jubeh
 - Nurhande Akyüz
-- Münevver Süeda Kocatürk
+- Münevver Sueda Kocatürk
